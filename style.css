@@ -129,6 +129,11 @@ footer .footer-block {
 		width: auto;
 	}
 
+	header {
+		padding: 40px;
+		width: auto;
+	}
+
 }
 
 @media only screen and (max-width: 375px) {
